@@ -23,8 +23,6 @@
 - **[Project 3](https://github.com/Safonov-Ivan/learn-card-hover)**
 
 ## 📈 GitHub Stats
-
-![Safonov Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safonov-Ivan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safonov-Ivan&layout=compact&theme=radical)
 
 
