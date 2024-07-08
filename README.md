@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials
-[![Instagram](https://www.instagram.com/safonov.iv/)
-[![LinkedIn](https://www.linkedin.com/in/ivan-safonov-158b64243/)
+![Instagram](https://www.instagram.com/safonov.iv/)
+![LinkedIn](https://www.linkedin.com/in/ivan-safonov-158b64243/)
 
 
