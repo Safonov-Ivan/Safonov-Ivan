@@ -18,9 +18,9 @@
 
 ## ✨ Recent projects.
 
-- **[Project 1](https://github.com/Safonov-Ivan/Marketing)** 
-- **[Project 2](https://github.com/Safonov-Ivan/bootstrap-learning-day1)** 
-- **[Project 3](https://github.com/Safonov-Ivan/learn-card-hover)**
+- **[Project 1](https://safonov-ivan.github.io/Marketing/)** 
+- **[Project 2](https://safonov-ivan.github.io/bootstrap-learning-day1/)** 
+- **[Project 3](https://safonov-ivan.github.io/learn-card-hover/)**
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safonov-Ivan&layout=compact&theme=radical)
