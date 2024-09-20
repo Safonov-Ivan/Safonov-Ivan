@@ -19,11 +19,12 @@
 
 ## ✨ Recent projects.
 
-- **[Project 1](https://safonov-ivan.github.io/Marketing/)** 
-- **[Project 2](https://safonov-ivan.github.io/bootstrap-learning-day1/)** 
-- **[Project 3](https://safonov-ivan.github.io/learn-card-hover/)**
-- **[Project 4](https://safonov-ivan.github.io/infoCountries/)**
-- **[Project 5](https://safonov-ivan.github.io/travelDiary/)**
+- **[Project 1](https://safonov-ivan.github.io/Marketing/)**
+- **[Project 2](https://safonov-ivan.github.io/FoodShop/)** 
+- **[Project 3](https://safonov-ivan.github.io/bootstrap-learning-day1/)** 
+- **[Project 4](https://safonov-ivan.github.io/learn-card-hover/)**
+- **[Project 5](https://safonov-ivan.github.io/infoCountries/)**
+- **[Project 6](https://safonov-ivan.github.io/travelDiary/)**
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safonov-Ivan&layout=compact&theme=radical)
