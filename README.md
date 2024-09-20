@@ -7,6 +7,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![javaScript](https://indosystem.com/wp-content/uploads/2016/01/js-poster.png)
 
 
 
@@ -22,6 +23,7 @@
 - **[Project 2](https://safonov-ivan.github.io/bootstrap-learning-day1/)** 
 - **[Project 3](https://safonov-ivan.github.io/learn-card-hover/)**
 - **[Project 4](https://safonov-ivan.github.io/infoCountries/)**
+- **[Project 5](https://safonov-ivan.github.io/travelDiary/)**
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safonov-Ivan&layout=compact&theme=radical)
