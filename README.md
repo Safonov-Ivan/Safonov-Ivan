@@ -7,7 +7,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![javaScript](https://indosystem.com/wp-content/uploads/2016/01/js-poster.png)
+![javaScript](https://icon666.com/r/_thumb/dkz/dkzz4igttnvr_64.png)
 
 
 
