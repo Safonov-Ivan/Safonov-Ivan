@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb0f524c-a7f9-4b29-9dfc-82be0a1b95e6)# 💻 Hi, I'm Safonov Ivan, I'm learning how to make websites.
+# 💻 Hi, I'm Safonov Ivan, I'm learning how to make websites.
 ![Banner](https://sun9-74.userapi.com/impg/I4D5s8d-6nTKjZNjtfTU5fihCs_75IxdHeC96g/s0JoT0FRNKM.jpg?size=850x250&quality=95&sign=e1fc23b3b77589490c8548141098b3fa&type=album)
 
 ## 🛠 Technologies & Tools.
