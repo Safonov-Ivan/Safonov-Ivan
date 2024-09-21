@@ -25,6 +25,7 @@
 - **[Project 4](https://safonov-ivan.github.io/bootstrap-learning-day1/)** 
 - **[Project 5](https://safonov-ivan.github.io/learn-card-hover/)**
 - **[Project 6](https://safonov-ivan.github.io/infoCountries/)**
+- **[Project 7](https://safonov-ivan.github.io/ToDoList/)**
 
 
 ## 📈 GitHub Stats
