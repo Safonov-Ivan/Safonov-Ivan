@@ -1,18 +1,22 @@
 # 💻 Hi, I'm Safonov Ivan, I'm learning how to make websites.
-![Banner](https://sun9-23.userapi.com/impg/6_bqMwrHthFtZSA6ajKcZEVzP7_vF6-IAz-Bkw/TmXtVrwbjaY.jpg?size=537x240&quality=96&sign=da17d0bdc2e4aec6eb2a725d4f64a427&c_uniq_tag=MrnuWA-Mx6GgRvqURchdnrWm2UdFpi32VyK7-_u7c8A&type=share)
+![Banner](https://files.oaiusercontent.com/file-XxrLNmF76KMT8S5RP6JbB9?se=2025-02-02T16%3A12%3A10Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1942f453-9acb-4790-81dd-769093cff1d2.webp&sig=30GL%2B9of2LO0lpCRSHRj7ED8quU7DMyMqMd%2B3DH0YaE%3D)
 
 ## 🛠 Technologies & Tools.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
 
 ## 🌐 Socials.
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safonov.iv/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-safonov-158b64243/)
 
 
