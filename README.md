@@ -1,5 +1,5 @@
 # 💻 Hi, I'm Safonov Ivan, I'm learning how to make websites.
-![Banner](https://i.pinimg.com/originals/99/9b/33/999b33d0359cbe97c5b2c16b4bd33684.jpg)
+![Banner](https://sun9-23.userapi.com/impg/6_bqMwrHthFtZSA6ajKcZEVzP7_vF6-IAz-Bkw/TmXtVrwbjaY.jpg?size=537x240&quality=96&sign=da17d0bdc2e4aec6eb2a725d4f64a427&c_uniq_tag=MrnuWA-Mx6GgRvqURchdnrWm2UdFpi32VyK7-_u7c8A&type=share)
 
 ## 🛠 Technologies & Tools.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
